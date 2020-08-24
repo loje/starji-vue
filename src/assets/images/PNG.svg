@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="62px" viewBox="0 0 56 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>编组</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.7917 35.2775 0.7917 35.2775 16.7917 0 16.7917"></polygon>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-787.000000, -3475.000000)">
+            <g id="编组" transform="translate(787.000000, 3474.000000)">
+                <g transform="translate(0.000000, 0.520800)">
+                    <g transform="translate(6.000000, 1.000000)">
+                        <path d="M48.8747,11.7497 L48.8747,56.5977 C48.8747,58.4697 47.3447,59.9997 45.4727,59.9997 L4.1107,59.9997 C2.2387,59.9997 0.7087,58.4697 0.7087,56.5977 L0.7087,3.9017 C0.7087,2.0307 2.2387,0.4997 4.1107,0.4997 L36.9167,0.4997" id="Fill-1" fill="#FFFFFF"></path>
+                        <path d="M48.8747,11.7497 L48.8747,56.5977 C48.8747,58.4697 47.3447,59.9997 45.4727,59.9997 L4.1107,59.9997 C2.2387,59.9997 0.7087,58.4697 0.7087,56.5977 L0.7087,3.9017 C0.7087,2.0307 2.2387,0.4997 4.1107,0.4997 L36.9167,0.4997" id="Stroke-3" stroke="#FCA253" stroke-width="2"></path>
+                    </g>
+                    <polygon id="Fill-4" fill="#FCA253" points="42.8747 0.4792 42.8747 12.7502 55.8897 12.7502"></polygon>
+                    <g transform="translate(0.000000, 5.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-7"></g>
+                        <path d="M33.0065,16.7917 L-0.0005,16.7917 L-0.0005,3.0627 C-0.0005,1.8127 1.0225,0.7917 2.2705,0.7917 L33.0065,0.7917 C34.2555,0.7917 35.2775,1.8127 35.2775,3.0627 L35.2775,14.5207 C35.2775,15.7707 34.2555,16.7917 33.0065,16.7917" id="Fill-6" fill="#FCA253" mask="url(#mask-2)"></path>
+                    </g>
+                    <path d="M0.0729,21.8337 L5.8229,25.7087 L5.8229,21.8227 C5.8229,21.8227 0.1979,21.8337 0.0729,21.8337" id="Fill-8" fill="#C6661E"></path>
+                    <path d="M42.8747,12.7497 L53.9167,23.5357 L53.9167,12.7927 C53.9167,12.7927 43.0887,12.7497 42.8747,12.7497" id="Fill-10" fill="#E6E6E6"></path>
+                </g>
+                <text id="PNG" font-family="PingFangSC-Regular, PingFang SC" font-size="10.576" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="7.9297" y="18">PNG</tspan>
+                </text>
+                <g transform="translate(12.000000, 27.520800)" fill="#FCA253">
+                    <polygon id="Fill-12" points="0.959 5.697 6.209 5.697 6.209 0.447 0.959 0.447"></polygon>
+                    <polygon id="Fill-14" points="0.959 16.235 6.209 16.235 6.209 10.985 0.959 10.985"></polygon>
+                    <polygon id="Fill-15" points="32.5 5.864 37.75 5.864 37.75 0.614 32.5 0.614"></polygon>
+                    <polygon id="Fill-16" points="32.5 16.401 37.75 16.401 37.75 11.151 32.5 11.151"></polygon>
+                    <polygon id="Fill-17" points="11.5 16.276 16.75 16.276 16.75 11.026 11.5 11.026"></polygon>
+                    <polygon id="Fill-18" points="11.459 5.822 16.709 5.822 16.709 0.572 11.459 0.572"></polygon>
+                    <polygon id="Fill-19" points="22.042 16.276 27.292 16.276 27.292 11.026 22.042 11.026"></polygon>
+                    <polygon id="Fill-20" points="22 5.822 27.25 5.822 27.25 0.572 22 0.572"></polygon>
+                    <polygon id="Fill-21" points="6.209 10.959 11.459 10.959 11.459 5.709 6.209 5.709"></polygon>
+                    <polygon id="Fill-22" points="16.753 11.125 22.003 11.125 22.003 5.875 16.753 5.875"></polygon>
+                    <polygon id="Fill-23" points="27.253 11.125 32.503 11.125 32.503 5.875 27.253 5.875"></polygon>
+                    <polygon id="Fill-24" points="0.959 26.776 6.209 26.776 6.209 21.526 0.959 21.526"></polygon>
+                    <polygon id="Fill-25" points="32.5 26.943 37.75 26.943 37.75 21.693 32.5 21.693"></polygon>
+                    <polygon id="Fill-26" points="11.5 26.818 16.75 26.818 16.75 21.568 11.5 21.568"></polygon>
+                    <polygon id="Fill-27" points="22.042 26.818 27.292 26.818 27.292 21.568 22.042 21.568"></polygon>
+                    <polygon id="Fill-28" points="6.209 21.5 11.459 21.5 11.459 16.25 6.209 16.25"></polygon>
+                    <polygon id="Fill-29" points="16.753 21.667 22.003 21.667 22.003 16.417 16.753 16.417"></polygon>
+                    <polygon id="Fill-30" points="27.253 21.667 32.503 21.667 32.503 16.417 27.253 16.417"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

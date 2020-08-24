@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="16px" viewBox="0 0 9 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>编组备份</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 9 0 9 16 0 16"></polygon>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-519.000000, -650.000000)">
+            <g id="编组备份" transform="translate(523.500000, 658.000000) scale(-1, 1) translate(-523.500000, -658.000000) translate(519.000000, 650.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M0.984305791,16 C0.732323509,16 0.480734948,15.9112727 0.288204736,15.7338182 C-0.0960682452,15.3785455 -0.0960682452,14.8032727 0.288204736,14.448 L6.86494231,8.37418182 C7.08818286,8.168 7.08818286,7.832 6.86494231,7.62581818 L0.288204736,1.552 C-0.0960682452,1.19672727 -0.0960682452,0.621454545 0.288204736,0.266181818 C0.672871439,-0.0887272727 1.29574014,-0.0887272727 1.68040685,0.266181818 L8.2567507,6.34036364 C9.24774977,7.25527273 9.24774977,8.74472727 8.2567507,9.65963636 L1.68040685,15.7338182 C1.48787663,15.9112727 1.23628807,16 0.984305791,16" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
