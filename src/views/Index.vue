@@ -22,7 +22,7 @@
       </div>
       <div class="top-main">
         <div class="t">灵感收集用星辑</div>
-        <div class="desc">星辑随时随地的管理你的灵感库「图片、视频、音频素材等」，给你意向不到的快捷方便，同时也满足收藏、整理、查找，带来更高效的工作</div>
+        <div class="desc">星辑随时随地的管理你的灵感库「图片、视频、音频素材等」，给你意想不到的快捷方便，同时也满足收藏、整理、查找，带来更高效的工作</div>
         <div class="btn-group">
           <div class="btn">
             <svg
@@ -167,7 +167,7 @@
 
     <div class="index-4 max-width">
       <div class="title">素材如何管理？</div>
-      <div class="desc">面对大量的灵感时，也不免整理，星辑会通过标签、分类文件夹合理的将你采集的图为他们赋予属性，不在担心找不到很久之前采集到的灵感啦</div>
+      <div class="desc">面对大量的灵感时，也不免整理，星辑会通过标签、分类文件夹合理的将你采集的图为他们赋予属性，不再担心找不到很久之前采集到的灵感啦</div>
 
       <div class="item-media">
         <div class="media-img">
@@ -340,7 +340,7 @@
         </div>
         <div class="btm-bottom">
           <span class="company">深圳市行星矩阵科技有限公司</span>
-          <span class="icp">ICP备案号：xxxxxxxxxx</span>
+          <a href="http://www.miitbeian.gov.cn/" class="icp" target="blank">粤ICP备2020076190号</a>
         </div>
       </div>
     </div>
@@ -851,6 +851,10 @@ export default {
       line-height: 20px;
       .company {
         margin-right: 81px;
+      }
+      a {
+        text-decoration: none;
+        color: #fff;
       }
     }
   }
